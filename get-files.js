@@ -8,7 +8,7 @@ let files = fs.readdirSync(directory);
 let list = files.filter(x => x.includes('.svg'));
 console.log(list);
 
-fs.writeFile("array-gen/list.txt", list, function(err) {
+fs.writeFile("array-gen/list.json", JSON.stringify(list), function(err) {
 
 	if(err) {
 			return console.log(err);
