@@ -1,0 +1,1 @@
+alert-o.svg,alert.svg,arrow-down.svg,arrow-left.svg,arrow-right.svg,arrow-up.svg,calendar.svg,check-circle-o.svg,check-circle.svg,check.svg,clock.svg,close-circle-o.svg,close-circle.svg,close.svg,cog-o.svg,cog.svg,copy.svg,info-o.svg,info.svg,loading.svg,machine.svg,mail.svg,minus-circle-o.svg,minus-circle.svg,plus-circle-o.svg,plus-circle.svg,service-info.svg,user.svg
